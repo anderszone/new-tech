@@ -157,30 +157,31 @@ npm run dev
 
 ## 💡 Individual Reflection – Anders Johansson
 
-### Contribution to the project
+### 🌟 Contribution to the project
 My main contributions to the project included creating and improving several core features and ensuring responsive design across devices.  
 
 - Built two static and fully responsive pages:  
-  - **About page** with lorem ipsum text and team member images  
-  - **Contact page** with a non-functional contact form for layout purposes  
+  - **About page** with text and team member images  
+  - **Contact page** with a contact form
 - Implemented **pagination** on the product listing, using both Server and Client Components.  
 - Tested and fixed **responsiveness** for mobile, tablet, and desktop devices.  
 - Adjusted **responsive styling** by switching between `px` and `rem` units in CSS where needed.  
 - Developed a **delete button** with full functionality on the admin page, enabling product removal from the shop.  
-- Created a **hamburger menu (mobile navigation)** for phone and smartphone screen sizes.  
+- Created a **hamburger menu (mobile navigation)** for smaller screen sizes.
 
-### Technologies used
-- **Next.js** (Server and Client Components)  
+### 🛠 Technologies used
+- **Next.js 15** (App router)
+- **Reusable components**, Hooks, Conditional rendering, Props
+- Server actions, Server & Client components
 - **API integration** with DummyJSON  
 - **CSS Modules**  
-- **Responsive design** techniques  
-- **Reusable components**  
+- **Responsive design** techniques (mobile-first, responsive units)
 - **HTML5**  
 - **TypeScript**  
 
-### Future development
+### 🚀 Future development
 If I were to continue working on this project, I would prioritize:  
 - Refactoring the codebase to ensure more consistent styling and structure across components.  
 - Improving the admin panel with additional features such as editing and bulk-deleting products.  
 - Implementing proper form handling and validation for the Contact page.  
-- Adding unit and integration tests to improve reliability and maintainability.  
+- Adding unit and integration tests to improve reliability and maintainability.
