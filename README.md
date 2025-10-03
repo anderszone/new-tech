@@ -182,12 +182,12 @@ My main contributions to the project included creating and improving several cor
 ### 🚀 Future development
 If I were to continue working on this project, I would prioritize:
 - Integrate payment methods: **Stripe** and **PayPal** to enable safe online transactions directly using our e-commerce platform.
-- Implementing proper form handling and validation for the Contact page.
+- Ensure proper form handling and validation for the Contact page.
 - Develop a custom backend with a dedicated API and database to handle product management, user data and authentication.
 - Implement secure user authentication and authorization (OAuth or JWT).
 - Add role-based access control for admin and user roles.
 - Improve accessibility (WCAG) by adding aria-attributes, color contrast and font sizes.
 - Refactoring the codebase to ensure more consistent styling and structure across components.
-- Implement a system for users to rate and review products, enhancing the shopping experience.  
-- Improving the admin panel with additional features such as managing inventory and orders.
+- Create a system for users to rate and review products, enhancing the shopping experience.  
+- Expanding the admin panel with additional features such as managing inventory and orders.
 - Adding unit and integration tests to improve reliability and maintainability.
