@@ -171,23 +171,23 @@ My main contributions to the project included creating and improving several cor
 
 ### 🛠 Technologies used
 - **Next.js 15** (App router)
-- **Reusable components**, Hooks, Conditional rendering, Props
-- Server actions, Server & Client components
+- **React concepts:** Reusable components, Hooks, Conditional rendering, Props
+- **Next.js concepts:** Server actions, Server & Client components
 - **API integration** with DummyJSON  
 - **CSS Modules**  
-- **Responsive design** techniques (mobile-first, responsive units)
+- **Responsive design** (mobile-first, responsive units)
 - **HTML5**  
-- **TypeScript**  
+- **TypeScript**
 
 ### 🚀 Future development
 If I were to continue working on this project, I would prioritize:
-- Integrate payment methods: **Stripe** and **PayPal** to enable safe online transactions directly using our e-commerce platform.
+- Integrate payment methods: Stripe and PayPal to enable safe online transactions directly using our e-commerce platform.
 - Ensure proper form handling and validation for the Contact page.
 - Develop a custom backend with a dedicated API and database to handle product management, user data and authentication.
 - Implement secure user authentication and authorization (OAuth or JWT).
 - Add role-based access control for admin and user roles.
 - Improve accessibility (WCAG) by adding aria-attributes, color contrast and font sizes.
-- Refactoring the codebase to ensure more consistent styling and structure across components.
+- Refactor the codebase to ensure more consistent styling and structure across components.
 - Create a system for users to rate and review products, enhancing the shopping experience.  
-- Expanding the admin panel with additional features such as managing inventory and orders.
-- Adding unit and integration tests to improve reliability and maintainability.
+- Expand the admin panel with additional features such as managing inventory and orders.
+- Add unit and integration tests to improve reliability and maintainability.
